@@ -6,3 +6,4 @@ console.log ("hi");
  */
 console.log ("hi too");
 console.log ("hi 3");
+console.log ("hi 3");
